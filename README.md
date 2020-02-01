@@ -1,4 +1,4 @@
-# cheatsheet-css
+# css cheatsheet
 
 ## resources
 
