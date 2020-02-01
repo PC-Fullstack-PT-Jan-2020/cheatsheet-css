@@ -1,0 +1,33 @@
+/*
+  // COMMENTING ///
+  I'm a comment in css and can be used to help you add more context
+  to your code
+*/
+
+/*
+  below is an id selector
+  - it can/should be used for unique elements on the page only
+*/
+#idSelector {
+  color: red;
+}
+
+/*
+  class selector
+  - it can should be used for repeated styles on a web page
+*/
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #333;
+}
+
+/*
+  tag selector
+  - used to select specific elements on the page
+*/
+
+p {
+  color: blue;
+}
